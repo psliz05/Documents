@@ -3,6 +3,8 @@
 A simple script that logs into **my.harvard**, checks all of your class grades, and emails you whenever something changes!
 
 This will update every 30 seconds and email you if a change is made.
+
+You will have to accept your Duo push the first time—then just let it run.
 ---
 
 ## Quick Setup
