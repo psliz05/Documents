@@ -6,7 +6,7 @@ A simple script that logs into **my.harvard**, checks all of your class grades, 
 
 ## Quick Setup
 
-1. **Clone / Download** this from GitHub
+1. **Clone / Download** this from GitHub in your terminal
 
    `git clone https://github.com/psliz05/grade-checker.git`
    
