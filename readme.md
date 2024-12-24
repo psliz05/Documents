@@ -14,7 +14,14 @@ A simple script that logs into **my.harvard**, checks all of your class grades, 
 
 3. Install requirements
 
-   `pip install selenium`
+   1. Create a virtual environment
+      
+   - `python3 -m venv .venv`
+   - `source .venv/bin/activate`
+
+   2. Install Selenium:
+   
+   - `pip install selenium`
 
 4. Google App Password
 
@@ -29,7 +36,7 @@ note: this only works for your personal email. use that, not your harvard email,
 
     **Harvard Key creds**
    
-    `export HARVARD_USERNAME="myharvarduser"`
+    `export HARVARD_USERNAME="myemail@college.harvard.edu"`
    
     `export HARVARD_PASSWORD="myharvardpass"`
 
