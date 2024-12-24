@@ -2,6 +2,7 @@
 
 A simple script that logs into **my.harvard**, checks all of your class grades, and emails you whenever something changes!
 
+This will update every 30 seconds and email you if a change is made.
 ---
 
 ## Quick Setup
