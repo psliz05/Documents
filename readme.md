@@ -15,7 +15,7 @@ You will have to accept your Duo push the first time—then just let it run.
    
    `cd grade-checker`
 
-3. Install requirements
+2. Install requirements
 
    1. Create a virtual environment
       
@@ -26,7 +26,7 @@ You will have to accept your Duo push the first time—then just let it run.
    
    - `pip install selenium`
 
-4. Google App Password
+3. Google App Password
 
 You can’t just use your normal password to send emails to yourself. Create an app password:
 
@@ -35,7 +35,7 @@ note: this only works for your personal email. use that, not your harvard email,
 - enter some 'app name,' and press create.
 - copy that 16-character password and use it for GMAIL_PASSWORD (next step).
 
-5. enter the environment variables in the terminal
+4. enter the environment variables in the terminal
 
     **Harvard Key creds**
    
@@ -49,7 +49,7 @@ note: this only works for your personal email. use that, not your harvard email,
    
     `export GMAIL_PASSWORD="abcdefghijklmnop"`
 
-7. run the script
+5. run the script
 
     `python3 grades.py`
 
