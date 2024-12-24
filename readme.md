@@ -8,7 +8,7 @@ A simple script that logs into **my.harvard**, checks all of your class grades, 
 
 1. **Clone / Download** this from GitHub
 
-   `git clone https://github.com/your-username/grade-checker.git`
+   `git clone https://github.com/psliz05/grade-checker.git`
    
    `cd grade-checker`
 
